@@ -1,2 +1,118 @@
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Baldur's Gate 3 is a 2023 role-playing video game developed and published by Larian Studios. It is the third main installment to the Baldur's Gate series, based on the tabletop fantasy role-playing system of Dungeons & Dragons. A partial version of the game was released in early access format for macOS and Windows in October 2020. It remained in early access until its full release for Windows in August 2023, with versions for PlayStation 5, macOS, and Xbox Series X/S releasing later that year.[1][2]
 
+Set in the universe of the Forgotten Realms, the game begins with the protagonist waking up from unconsciousness on a mind flayer dimension-crossing ship infected with a parasitic tadpole that threatens to transform them into a mind flayer. Alongside several others who have met the same fate, they are forced to go on a quest to find a remedy to prevent ceremorphosis. Players choose from twelve character classes and customize their characters at the beginning of the game; they also select an origin from several options. Through interacting with other characters, engaging in round-based combat against enemies, and making plot decisions, players determine not only their fate but also the fate of Faerûn. That determination is also impacted by the game's dice roll mechanic where a player's roll determines if the outcome of a character action is a success or failure.
+
+Baldur's Gate 3 received critical acclaim, with praise for its gameplay, narrative, and production quality. It won many Game of the Year awards and became the first game that won GOTY awards at all five major video game award ceremonies at the Golden Joystick Awards, The Game Awards,[3] the D.I.C.E. Awards,[4] the Game Developers Choice Awards, and the British Academy Games Awards.[5][6][7]
+
+Gameplay
+Baldur's Gate 3 is a role-playing video game with single-player and cooperative multiplayer elements. Players can create one or more characters and form a party along with a number of pre-generated characters to explore the game's story. Optionally, players are able to take one of their characters and team up online with other players to form a party.[8][9]
+
+The game implements a flexible quest system with various approaches to resolving most quests. Players can eliminate almost any non-player character, regardless of their importance to the storyline, yet still continue to advance through the game.[10] The game is divided into three acts, each taking place in a distinct region of the world. Within these acts, the game adopts a non-linear format, permitting players to tackle quests in virtually any sequence.[10]
+
+Screenshot of Baldur's Gate 3's first combat encounter.
+Baldur's Gate 3 features turn-based combat implementing the combat model from 5th edition of the Dungeons & Dragons tabletop role-playing game.
+Unlike previous games in the Baldur's Gate series, Baldur's Gate 3 has turn-based combat, similar to Larian's earlier games Divinity: Original Sin and Divinity: Original Sin II; all combat is based on the Dungeons & Dragons 5th Edition rules.[11] Most mechanics and spells are taken from the tabletop role-playing game version of Dungeons & Dragons, although some are modified or omitted due to the adaptation of the game into a role-playing video game format.[12] There are 12 character classes, which are further subdivided into 46 subclasses. Each class focuses on a different aspect of the combat system, such as the wizard, who focuses on casting a large variety of spells or the barbarian, who focuses on unarmoured melee combat.[13] The player can also select more than one class per character, which is referred to as multiclassing, allowing the player to build their character in many different and unique ways.[14]
+
+The game incorporates a roster of ten companion characters who are available for players to enlist into their party. Each of these characters has a personal story and a narrative that the player can explore further. The player can develop relationships with companion characters based on plot and dialogue choices made. Some of the companion characters are only accessible provided that the player makes specific plot or dialogue choices.[15]
+
+All characters, both major and minor, are fully voice acted and motion captured, amounting to approximately 1.5 million words of performance capture.[16][17]
+
+The game features a limited free floating camera, allowing the player to play the game in any camera ranging from fully third-person camera to an isometric top-down view.[18] The game's user interface has both a mouse and keyboard and a controller mode. In both modes, the player can use spells and combat actions, manage inventory, see the map, display player and companion character's statistics and select various gameplay elements such as allied and enemy characters.[19]
+
+The game has modding support, although not all features and tools are available at launch, and modding options are expected to expand with subsequent updates.[20] Many mods are available from the community, allowing the player to change various aspects of the game.[21]
+
+Plot
+Setting
+Baldur's Gate 3 takes place in the fictional world of the Forgotten Realms during the year of 1492 DR, over 120 years after the events of the previous game, Baldur's Gate II: Shadows of Amn, and months after the events of the playable Dungeons & Dragons 5e module, Baldur's Gate: Descent into Avernus. The story is set primarily in the Sword Coast in western Faerûn, encompassing a forested area that includes the Emerald Grove, a druid grove dedicated to the deity Silvanus; Moonrise Towers and the Shadow-Cursed Lands, which are covered by an unnatural and sentient darkness that can only be penetrated through magical means; and Baldur's Gate, the largest and most affluent city in the region, as well as its outlying suburb of Rivington. Other places the player visits include the Underdark, the Astral Plane and Avernus.[22]
+
+Characters
+The game is fully narrated by voice actress Amelia Tyler, who acts as the Dungeon Master, describing the world and the player's actions throughout the story.[23] The player character can either be created from scratch by the player, chosen from six pre-made "origin characters", or a customisable seventh origin character known as The Dark Urge.[24] All six pre-made origin characters can be recruited as part of the player character's party. They include Lae'zel (Devora Wilde), a githyanki fighter; Shadowheart (Jennifer English), a half-elf cleric; Astarion (Neil Newbon), a high elf vampire rogue; Gale (Tim Downie), a human wizard; Wyll (Theo Solomon), a human warlock; and Karlach (Samantha Béart), a tiefling barbarian.[25][26] Four other characters may join the player's party: Halsin (Dave Jones), a wood elf druid; Jaheira (Tracy Wiles), a half-elf druid; Minsc (Matthew Mercer), a human ranger who carries a hamster named Boo with him; and Minthara (Emma Gregory), a drow paladin. Jaheira and Minsc previously appeared in both Baldur's Gate and Baldur's Gate II: Shadows of Amn.[27]
+
+The primary antagonists of the game are the Absolute (Cissy Jones), and her three chosen followers General Ketheric Thorm (J. K. Simmons), Lord Enver Gortash (Jason Isaacs), and Orin the Red (Maggie Robertson). Additional major characters include: Withers (Stephen Boxer), a mysterious undead entity who supports the player in camp, Raphael (Andrew Wincott), a devil with a penchant for making deals; Elminster (Crispin Redman), a renowned wizard and mentor to Gale; Auntie Ethel (Rena Valeh), a fussy trader of potions and sundries; Bhaal (Doug Cockle), the God of Murder; Mystra (Jane Perry), Goddess of Magic; Shar, Goddess of Darkness; Volo (Stephen Hogan), an unlucky writer; Mizora (Tamaryn Payne), a manipulative devil with a connection to Wyll; Isobel (Mia Foo), a half elf cleric working with Jaheria; Dame Aylin (Helen Keeley), Isobel's partner and an aasimar paladin; Ulder Ravengard (Chris Jarman), Wyll's father and Duke of Baldur's Gate; Kith'rak Voss (Richard Cotton), a githyanki knight; Dammon (Frazer Blaxland), a tiefling blacksmith, and The Emperor (Scott Joseph), a mind flayer with a key role in the main story. Sceleritas Fel (Brian Bowles), a fiend and manservant to the Dark Urge, only appears if the player has chosen to create a Dark Urge character. Viconia DeVir (Jess Nesling), a drow cleric and Mother Superior serving Shar who is integral to Shadowheart's storyline, previously appeared in Baldur's Gate and appeared as a companion in Baldur's Gate II: Shadows of Amn where she was voiced by Grey DeLisle.
+
+Story
+The protagonist wakes up inside a giant dimension-crossing illithid (mind flayer) flying ship. They are infected with a parasitic tadpole that enthrals and transforms people into illithids; however, the transformation does not happen, and the ship comes under attack from githyanki warriors riding red dragons. The protagonist is freed during the fighting and steers the damaged ship to Faerûn, where it crashes. They encounter other survivors of the wreck, all likewise implanted with tadpoles.
+
+The party seeks to remove their parasites through numerous avenues, all of which fail to provide a cure. They are saved from the tadpoles' overwhelming psychic force by a "Dream Visitor" inside Shadowheart's mysterious prism, a device that is sought after by the githyanki. The protagonist then becomes involved in the fate of the Emerald Grove, where local druids and tiefling refugees face off against the goblin horde that worships a cult of the "Absolute". Once the party either sacks or saves the grove, they travel through the mountains or the Underdark to reach Moonrise Towers, a cultist stronghold, in search of a new cure.
+
+The protagonist seeks sanctuary from the curse around Moonrise Towers in a tavern called the Last Light, held by a group of tiefling refugees, Flaming Fist conscripts and Harpers. General Ketheric Thorm, the reigning lord of Moonrise and Chosen of Myrkul, is using a relic named the "Nightsong" as an engine for his immortality. The party scours the depths of Moonrise in pursuit of the Nightsong, revealed to be Dame Aylin, a daughter of Selûne. After either slaying or freeing the Nightsong, the protagonist confronts Ketheric, as well as his cohorts—Orin the Red, the Chosen of Bhaal and Enver Gortash, the Chosen of Bane. Through their Netherstones and a mysterious crown, the triumvirate collectively controls the Absolute, revealed to be an Elder Brain, the ultimate form of the illithid race, and seeks to rule the Sword Coast by manipulating everyone infected with a tadpole. Orin and Gortash depart with the Elder Brain for Baldur's Gate, while the protagonist defeats Ketheric and claims his Netherstone.
+
+The protagonist arrives at Baldur's Gate as Gortash and Orin attempt to pit them against the other, while the companions find closure for their personal quests. It is revealed that the "Dream Visitor" is, in fact, a visage taken by a renegade illithid called the Emperor, who resides within the prism and oversees the imprisonment of a powerful githyanki, Orpheus. Orpheus is the source of psionic resistance the party possesses against the Absolute, and the Emperor has been leveraging this in his favour. The protagonist eventually faces off against Gortash and Orin, assembling the Netherstones to subdue the Elder Brain. The Elder Brain, having anticipated the triumvirate and the protagonist's every move, overpowers the party before the Emperor comes to the rescue.
+
+Realising that the Netherstones require an illithid wielder with Orpheus' powers to be effective, the protagonist either frees Orpheus and allows him to transform, which causes the Emperor to resign to his fate and join the Absolute, or has either the Emperor, a transformed Karlach or the player character consume Orpheus in order to see the mission through. After defeating the Elder Brain, the protagonist can choose to either kill it and every illithid tadpole with it, ending the threat forever, or betray their comrades and rule as the Absolute.
+
+Development
+See also: List of Dungeons & Dragons video games
+Portrait of Swen Vincke, Baldur's Gate 3's creative director.
+Swen Vincke, Baldur's Gate 3 director and Larian Studios founder
+The original Baldur's Gate game was developed by BioWare and Black Isle Studios, and published by Interplay Entertainment in 1998. The game used a licensed version of the Dungeons & Dragons (D&D) rule set, specifically in the Forgotten Realms setting. The game's success led to a sequel, Baldur's Gate II: Shadows of Amn, and its expansion pack, as well as the Icewind Dale series and Planescape: Torment. After the success of the spinoff Baldur's Gate: Dark Alliance by Snowblind Studios, Interplay announced plans to produce further sequels to the Baldur's Gate series.[28] A planned sequel developed by Black Isle Studios, Baldur's Gate III: The Black Hound, was cancelled in 2003. Black Isle Studios would develop Baldur's Gate: Dark Alliance II before being shut down by Interplay in December 2003.[29] Further development on the series was halted due to a lawsuit between Interplay and Snowblind over the rights to the Dark Alliance trademark, and the Baldur's Gate trademark would revert to Atari.[30]
+
+Atari would publish Neverwinter Nights, developed by BioWare, in 2002 and Neverwinter Nights 2, developed by Obsidian Entertainment, founded by former members of Black Isle Studios, in 2007. After the release of Neverwinter Nights 2, Obsidian Entertainment founder Feargus Urquhart unsuccessfully approached Atari to develop a sequel to Baldur's Gate.[31] Further attempts to develop a new Baldur's Gate were made by Brian Fargo, the founder of both Interplay and inXile Entertainment, as well as Beamdog, developers of enhanced ports of the original games and the standalone expansion Baldur's Gate: Siege of Dragonspear.[32][33]
+
+Larian Studios were interested in making a sequel in the Baldur's Gate series for some time, having first approached Wizards of the Coast after their release of Divinity: Original Sin around 2014. At this time, Wizards of the Coast felt the studio was still too new to the industry to be trusted with the Baldur's Gate license. Larian then developed Divinity: Original Sin II, which was released in September 2017. Pre-release materials related to the game impressed Wizards of the Coast, so they contacted Larian to ask if they still had interest in Baldur's Gate 3. Larian accepted, and while working to wrap up the release stage of development for Divinity: Original Sin II, a small group gathered to develop the design document to present to Wizards of the Coast with their ideas for the new Baldur's Gate.[34]
+
+Group of people playing Dungeons & Dragons tabletop RPG.
+Baldur's Gate 3 is based on the 5th edition of the Dungeons & Dragons tabletop role-playing game.
+The game is based on the 5th-edition Dungeons & Dragons rule set, though it includes tweaks and modifications that Larian found necessary in adapting it to a video game. For example, the combat system is more in favour of the player than in the tabletop version, to make the game more enjoyable.[9]
+
+Larian Studios teased Baldur's Gate 3 in the week prior to E3 2019.[35] They formally revealed it during Google's presentation on the Stadia platform just ahead of E3, confirming its release for both Windows and Stadia.[36] The tabletop adventure Baldur's Gate: Descent Into Avernus was published by Wizards of the Coast in September 2019, and has been described as a "prequel" to Baldur's Gate 3. The Descent into Avernus adventure takes place roughly 100 years after the events of Baldur's Gate II, and the story of Baldur's Gate 3 takes place immediately following the events of the Descent into Avernus tabletop module.[37] On 5 October 2020, Larian Studios announced the game would be released for macOS in addition to Windows and Stadia.[38] Baldur's Gate 3 runs on Divinity Engine 4.0.[39][40][41]
+
+In March 2024, Swen Vincke announced that Larian Studios would not be producing any DLC or sequels for Baldur's Gate 3, citing the constraints of developing within the D&D ruleset and a desire to "pass the torch to the next developer" and pursue other projects.[42][43]
+
+Release
+Baldur's Gate 3 was originally set to be released in early access on 30 September 2020 before being delayed a week to 6 October.[44][45] The early access version contained only the first act, amounting to approximately 25 hours of content.[46] Additional features and content, including multiplayer functionality and more classes, were added throughout early access.[47]
+
+The version for Stadia was cancelled following the closure of the platform in January 2023.[48] In February 2023, it was announced that Baldur's Gate 3 would be released for Windows, macOS, and PlayStation 5 on 31 August 2023.[49] The PlayStation 5 and macOS versions would be delayed to 6 September and 22 September.[50][51] Spike Chunsoft published the PlayStation 5 version in Japan on 21 December 2023.[52][53] A Xbox Series X and Series S version was released on 7 December 2023, delayed due to performance issues on the Xbox Series S with splitscreen co-op, which was cut from the Series S version.[54]
+
+Gameplay features like the Magic Mirror, allowing users to change their character's appearance, were added with patches after release.[55] A patch in December 2023 added two new difficulty modes, quality of life enhancements, and a new playable epilogue containing over 3,500 new dialogue lines.[56] A physical version released in May 2024.[57][58]
+
+Reception
+Reception
+Aggregate scores
+Aggregator	Score
+Metacritic	(PC) 96/100[59]
+(PS5) 96/100[60]
+(XBSX) 99/100[61]
+OpenCritic	98%[62]
+Review scores
+Publication	Score
+Destructoid	10/10[63]
+Digital Trends	[64]
+Edge	10/10[65]
+Eurogamer	[66]
+Famitsu	36/40[67]
+Game Informer	9.5/10[68]
+GameSpot	10/10[10]
+GamesRadar+	[69]
+GameStar	95/100[70]
+Hardcore Gamer	5/5[71]
+HobbyConsolas	96/100[72]
+IGN	10/10[73]
+Jeuxvideo.com	19/20[74]
+MeriStation	10/10[75]
+NME	[76]
+PC Gamer (US)	97%[77]
+PC Games (DE)	10/10[78]
+PCGamesN	9/10[79]
+PCMag	5/5[80]
+Polygon	Recommended[81]
+Push Square	10/10[82]
+TechRadar	[83]
+The Games Machine (Italy)	9.9/10[84]
+The Guardian	[85]
+VideoGamer.com	10/10[86]
+Baldur's Gate 3 received "universal acclaim" from critics, according to review aggregator website Metacritic,[59][60][61] with 98% of critics recommending the game on aggregator OpenCritic.[62]
+
+Critics praised the quality of the writing, including the detailed depiction of the Dungeons & Dragons setting of Faerûn;[85][87][88] the intertwined storylines enabling alternate story moments and a large degree of player freedom;[85][88] and the characters, particularly companions, that feel interesting and memorable.[88] Critics also praised the production quality, including the voice acting,[88] character and facial animations,[89] and detailed environments.[89] The game's implementation of the Dungeons & Dragons 5th edition ruleset was well received,[90] although some critics were concerned that the complexity of the system could be daunting for players wholly unfamiliar with the tabletop version of the game.[69][77] The technical performance and its few bugs were highlighted, especially given many vast and complex game systems and interactions.[77] Critics were more lukewarm on the inventory system and some aspects of the user interface, such as needing to micromanage the equipment of multiple characters.[88][additional citation(s) needed]
+
+Fraser Brown of PC Gamer called the game "the new pinnacle of the [CRPG] genre",[77] while IGN Portugal called it a "must-play masterpiece that sets a new bar in the RPG universe".[87]
+
+Alex Battaglia of Eurogamer praised the game's performance on PC, and added that "Baldur's Gate 3 launches in a polished state with no game-breaking issues, shaming the technical quality of other big AAA releases".[91]
+
+Sales
+Baldur's Gate 3 became the best-selling game on both Steam and GOG.com on the day of its early access launch.[92] On Steam, the game had about 537,000 concurrent players on release day and peaked at 875,000 two weeks after release.[93][94][95] Baldur's Gate 3 sold more than 2.5 million copies during its early access phase.[96] Sales surpassed Larian's expectations,[97] as well as those of Microsoft when considering the Xbox release.[98] By February 26, 2024 the game had sold upwards of 10 million copies, according to the Director of Publishing at Larian.[99]
+
+Accolades
+Larian Studios acceptance speech after receiving the Game of the Year award at The Game Awards 2023
+Larian Studios acceptance speech after receiving the Game of the Year award at The Game Awards 2023
+It was selected by Ars Technica,[100] GameSpot,[101] GamesRadar,[102] 3DJuegos,[103][104] PC Gamer,[105] and Screen Rant[106] as their Game of the Year.
