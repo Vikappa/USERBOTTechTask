@@ -6,5 +6,6 @@ module.exports = {
     },
     testMatch: ['**/__tests__/**/*.ts'],
     moduleFileExtensions: ['ts', 'js', 'json'],
+    detectOpenHandles: true,
+    forceExit: true,
   };
-  
