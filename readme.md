@@ -12,7 +12,7 @@
 
 ## 📜 Descrizione
 
-Questo progetto è un'applicazione **Node.js** realizzato come tech task per la candidatura in UserBot. Sviluppata con **TypeScript**, legge un file di testo, elabora il contenuto e stampa alcuni risultati statistici. L'applicazione utilizza delle **regex** per contare parole, spazi e caratteri, e per trovare le parole più usate nel testo.
+Questo progetto è un'applicazione **Node.js** realizzato come tech task per la candidatura in <a href="https://userbot.ai/it/">UserBot</a>. Sviluppata con **TypeScript**, legge un file di testo, elabora il contenuto e stampa alcuni risultati statistici. L'applicazione utilizza delle **regex** per contare parole, spazi e caratteri, e per trovare le parole più usate nel testo.
 
 ## 🌟 Funzionalità
 
